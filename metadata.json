@@ -1,0 +1,5 @@
+{
+  "name": "YT Snap - Video & Playlist Downloader",
+  "description": "A sleek, dark-themed web application that functions as a YouTube downloader. It allows users to download individual videos and entire playlists with multiple quality options, simulating a seamless experience similar to native downloader apps.",
+  "requestFramePermissions": []
+}
